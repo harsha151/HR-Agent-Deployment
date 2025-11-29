@@ -1,0 +1,13 @@
+google-genai
+langchain
+langchain-google-genai
+langchain-chroma
+langchain-community
+langchain-core
+langchain-text-splitters
+pypdf
+streamlit
+# --- NEW ---
+langchain-groq          # For Groq LLM integration
+langchain-huggingface   # For open-source embedding model
+sentence-transformers   # Dependency for the HuggingFace embeddings

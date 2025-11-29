@@ -1,0 +1,15 @@
+## Employee Handbook Excerpt - Version 3.1
+
+### Remote Work Policy
+Employees are allowed a maximum of **three (3)** remote days per week, subject to manager approval. All remote work must be logged in the company's internal JIRA system by 9:00 AM on the day of remote work. Essential in-office days are Tuesday and Thursday.
+
+### Vacation and Paid Time Off (PTO)
+* **Accrual Rate:** Full-time employees accrue 15 days of PTO annually. This resets on January 1st of each year.
+* **Rollover:** Employees may roll over a maximum of 5 unused PTO days into the next calendar year.
+* **Request Procedure:** All PTO requests must be submitted through the internal HR portal at least two (2) weeks in advance.
+
+### Health & Wellness Benefits
+The company offers three health plan tiers: Bronze, Silver, and Gold. New employees are eligible for coverage starting on the first day of the month following 30 days of employment. The **Gold tier** offers 90% coverage for specialist visits. Dental and Vision coverage is included with the Silver and Gold tiers only.
+
+### Performance Appraisals
+Performance reviews are conducted **bi-annually** in June and December. All staff must use the standard 5-point rating scale.
